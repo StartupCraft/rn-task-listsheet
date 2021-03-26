@@ -24,7 +24,7 @@ You need to follow the visual example of expected result provided below:
    1. should be closeable by swiping component's content down
 
 ### Constraints
-You are free to use any library you want (exception is ready-to-use list sheet components). Use only functional components & react hooks. 
+You are free to use any library you want (exception is ready-to-use list sheet components and modal libraries such as react-native-modal etc). Use only functional components & react hooks. 
 
 ### Delivery of the code
 The task will be considered as completed when you fulfill all the requirements and send the final code in a Gist or through CodePen or similar apps (though no references should be to this folder) and video showcasing code process as a link to your DropBox or GoogleDrive.
